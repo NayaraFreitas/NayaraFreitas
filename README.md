@@ -2,8 +2,8 @@
  
 <div>
   <a href="https://github.com/NayaraFreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayaraFreitas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraFreitas&layout=compact&langs_count=7&theme=aura"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NayaraFreitas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraFreitas&layout=compact&langs_count=7&theme=aura"/>
 </div>
  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
