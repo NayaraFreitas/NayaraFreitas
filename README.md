@@ -1,11 +1,27 @@
 # Oii, Eu sou a Nayara :wave:
  
-<div>
+<div align="center">
   <a href="https://github.com/NayaraFreitas">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NayaraFreitas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraFreitas&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayaraFreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraFreitas&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img align="center" alt="Visual Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+</div>
+  
+##  
+<div>
+ <a href = "mailto:nayarateles1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/nayara-freitas-teles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+<div>
+ ![Snake animation](https://github.com/NayaraFreitas/NayaraFreitas/blob/output/github-contribution-grid-snake.svg)
+</div>
