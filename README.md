@@ -1,8 +1,8 @@
 # 💫 About Me:
 Olá eu sou a Nayara tenho 21 anos e estou tentando me tornar uma programadora.
 <br>Atualmente estou cursando Análise e desenvolvimento de sistemaspela Unip.
-<br>Estou focando em HTML, CSS , Javascript e Typescript através de uma curso pela Udemy mas tambem tentando aprender C por conta da faculdade.
-<br>Meu objetivo no momento é se tornar Desenvolvedora Front-End.<br>
+<br>Estou focando em HTML, CSS , Javascript e Typescript através de uma curso pela Udemy.
+<br>Meu objetivo no momento é me tornar Desenvolvedora Front-End.<br>
 
 
 ## 🌐 Socials:
