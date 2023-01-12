@@ -1,30 +1,29 @@
-# 💫 About Me:
-Olá eu sou a Nayara tenho 21 anos e estou tentando me tornar uma programadora.
-<br>Atualmente estou cursando Análise e desenvolvimento de sistemaspela Unip.
-<br>Estou focando em HTML, CSS , Javascript e Typescript através de uma curso pela Udemy.
-<br>Meu objetivo no momento é me tornar Desenvolvedora Front-End.<br>
+### Olá<img src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Hand%20Wave.gif" height="55px">, Eu sou a Nayara <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0135.gif" border="0" alt="animated-line-image-0135"  width="100%" height="5px"/></a>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-freitas-teles/) 
+- Cursando Análise e Desenvolvimento de Sistemas
+- Entrando no mundo de Desenvolvedora Front-End
+- Estudando HTML, CSS , JavaScript
+
+
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0135.gif" border="0" alt="animated-line-image-0135"  width="100%" height="5px"/></a>
+
+### 👩‍💻Tecnologias que conheço👩‍💻
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode)](https://skillicons.dev)<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0135.gif" border="0" alt="animated-line-image-0135"  width="100%" height="5px" /></a>
+
+### 🌎Redes Sociais🌍
+
 <div>
-<a href = "mailto:nayarateles1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nayara-freitas-teles/" target="_blank"><img src="https://user-images.githubusercontent.com/96532901/211948640-791c2b33-d0b6-4768-b849-0ca6879499e3.png" height="50px" align="center" wight="100%"></a>       
+<a href=""mailto:nayarateles1@gmail.com"" target="_blank"><img src="https://user-images.githubusercontent.com/96532901/211948388-f560e174-9293-4601-8a78-d92e9528fd1b.png" height="50px" align="center" wight="100%"></a>
 </div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NayaraFreitas&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NayaraFreitas&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraFreitas&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0135.gif" border="0" alt="animated-line-image-0135"  width="100%" height="5px"/></a>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NayaraFreitas&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
----
-[![](https://visitcount.itsvg.in/api?id=NayaraFreitas&icon=0&color=4)](https://visitcount.itsvg.in)
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/96532901/211947660-01d421a6-d5ce-47c2-a5c6-5357c8a918ac.png" height="500px" align="center" wight="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=000000&background=FF0000&center=true&vCenter=true&width=500&lines=Veja+meus+reposit%C3%B3rios+abaixo." alt="Typing SVG" /></a>
+</div>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0135.gif" border="0" alt="animated-line-image-0135"  width="100%" height="5px"/></a>
