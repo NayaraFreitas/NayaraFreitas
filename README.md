@@ -22,6 +22,7 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/96532901/211947660-01d421a6-d5ce-47c2-a5c6-5357c8a918ac.png" height="500px" align="center" wight="100%">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=000000&background=FF0000&center=true&vCenter=true&width=500&lines=Veja+meus+reposit%C3%B3rios+abaixo." alt="Typing SVG" /></a>
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=F7F7F7&center=true&vCenter=true&width=546&height=31&lines=Veja+meus+reposit%C3%B3rios+abaixo." alt="Typing SVG" /></a>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0135.gif" border="0" alt="animated-line-image-0135"  width="100%" height="5px"/>
