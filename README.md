@@ -3,7 +3,6 @@
 # 💫 About Me:
 **Tenho 22 anos e estou tentando entrar neste mundo da programação, trilhando um caminho entre aprender e reaprender, atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistema pela UNIP. 
 Estou focando o estudo no momento em HTML, CSS e JavaScript 
-<br>Estou focando em HTML, CSS , Javascript e Typescript através de uma curso pela Udemy.
 <br>Meu objetivo no momento é me tornar Desenvolvedora Front-End mas também quero adquirir conhecimento sobre as outras stacks<br>**
 
 
