@@ -1,7 +1,7 @@
-![Banner para Linkedin Tecnologia em Preto](https://user-images.githubusercontent.com/96532901/230929854-d73d8963-28a7-4fa7-ba82-59ff7551d36d.png)
+![Nayara Freitas (github)](https://github.com/NayaraFreitas/NayaraFreitas/assets/96532901/b108f192-e358-4623-95b3-891f299ea952)
 
-# 💫 About Me:
-**Tenho 22 anos e estou tentando entrar neste mundo da programação, trilhando um caminho entre aprender e reaprender, atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistema pela UNIP. 
+# 💫 Sobre Mim:
+**Tenho 22 anos e estou tentando entrar neste mundo da programação, trilhando um caminho entre aprender e reaprender, atualmente estou no 4º semestre de Análise e Desenvolvimento de Sistema pela UNIP. 
 Estou focando o estudo no momento em HTML, CSS e JavaScript 
 <br>Meu objetivo no momento é me tornar Desenvolvedora Front-End mas também quero adquirir conhecimento sobre as outras stacks<br>**
 
@@ -10,10 +10,13 @@ Estou focando o estudo no momento em HTML, CSS e JavaScript
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-freitas-teles/) 
 <a href = "mailto:nayarateles1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+**<a href = "https://portifolio-nayara-freitas.netlify.app/" target="_blank">Meu Portifólio</a>**
+
+
 # 💻 My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,space,html,space,css,space,js,space,vscode,space,netlify,space,figma"/>
+    <img src="https://skillicons.dev/icons?i=git,space,html,space,css,space,js,space,vscode,space,netlify,space,figma,space,tailwind,space,bootstrap"/>
   </a>
 </p>
 
