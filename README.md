@@ -6,11 +6,11 @@
 
   <img align='right' src="https://github.com/NayaraFreitas/NayaraFreitas/assets/96532901/333f13b8-ee82-42ee-b9e4-b54d51684be1" height='250px'>
  
-  <p align='left'>Sou uma profissional em transição para a área de dados, com foco em me tornar Analista de Dados. Atualmente, estou desenvolvendo habilidades em SQL, Python e ferramentas de visualização como Tableau, além de participar de bootcamps e projetos práticos para consolidar meu aprendizado.
+  <p align='left'>Sou uma profissional em transição para a área de dados e automação, com foco em me tornar Analista de Dados e Automação. Atualmente, estou desenvolvendo habilidades em SQL, Python e bibliotecas do Python, além de participar de bootcamps e projetos práticos para consolidar meu aprendizado.
     
 Tenho interesse em transformar dados em insights que apoiem decisões estratégicas e estou constantemente evoluindo meus conhecimentos em análise, organização e interpretação de dados. Também possuo base em Front-end e UX/UI, o que me ajuda a ter um olhar mais analítico e centrado no usuário na construção de soluções.
 
-Busco oportunidades que me permitam aplicar na prática o que venho aprendendo, crescer profissionalmente e gerar impacto através dos dados.</p>
+Busco oportunidades que me permitam aplicar na prática o que venho aprendendo, crescer profissionalmente e gerar impacto através dos dados e automação.</p>
   
 
 
